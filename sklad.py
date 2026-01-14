@@ -6,3 +6,4 @@ def vypis_sklad(seznam):
 if __name__ == "__main__":
     zbozi = ["Monitor", "Klávesnice", "Myš"]
     vypis_sklad(zbozi)
+ 

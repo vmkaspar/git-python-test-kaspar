@@ -1,3 +1,4 @@
+# Skript pro správu skladových zásob
 def vypis_sklad(seznam):
     for polozka in seznam:
         print(f"Skladem: {polozka} (Verze 1.0)")
